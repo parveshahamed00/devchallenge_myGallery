@@ -1,0 +1,30 @@
+#profile{
+  
+    text-align: center;
+}
+#profile img{
+    width: 20%;
+    border-radius: 20px
+}
+#profile p,h5{
+    margin: 0;
+}
+#profile p{
+    font-size: 12px;
+    color: gray;
+}
+#profile button{
+    margin: 10px;
+    border: 0;
+    font-weight: 500;
+    border-radius: 10px;
+padding: 5px;   
+}
+#profile span{
+    color: gray;
+    font-weight: 300;
+    
+}
+body{
+    padding: 3% 4%;
+}
